@@ -1,0 +1,7 @@
+{
+  "name": "オンライン2D農業シミュレーション - FarmVerse",
+  "description": "プレイヤー主導の市場経済、オークション、作物栽培、クラフト、設備拡張がリアルタイムで連動する2Dオンライン農業シミュレーションゲーム。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
